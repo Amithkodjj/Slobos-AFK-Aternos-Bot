@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BOT24_7",
+    "username": "BOT24",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalol7"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to NIG",
-        "I like to play Minecraft!"
+        "fk vasudev",
+        "dont kick me out"
       ]
     },
     "chat-log": true,
